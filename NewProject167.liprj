@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject flattenSnippets="false" SelectedTarget="" TargetLanguage="ar-ae;es" xml:lang="ar-ae" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="12">
+<LingoProject flattenSnippets="false" SelectedTarget="" TargetLanguage="ar-ae;en-ca;es" xml:lang="ar-ae" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="12" ActiveLanguage="es">
     <ProjectFile Source="Target/!JavaScriptFileTesting.flprj" Target="Target/!JavaScriptFileTesting.flprj" />
     <TMConnection Connection="wdqasdx.db" ReadOnly="false" Type="StandAlone" />
 </LingoProject>
