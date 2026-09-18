@@ -52,7 +52,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101">Conceptos2</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101">asdsConceptos2</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
         phase-name="pretrans"><source>Delete this text and replace it with your own content.</source><seg-source><mrk
